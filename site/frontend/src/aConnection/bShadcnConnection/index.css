@@ -842,7 +842,7 @@ html, body, #root {
 } */
 
 /* Capella */
-/* @layer base {
+@layer base {
   :root {
     --background: 6 80% 66%; 
     --foreground: 30 7% 16%; 
@@ -934,7 +934,7 @@ html, body, #root {
     --sidebar-border: 30 6% 22%;
     --sidebar-ring: 6 80% 66%;
   }
-} */
+}
 
 /* Arion */
 /* @layer base {
@@ -1222,7 +1222,7 @@ html, body, #root {
 } */
 
 /* Boilerplate */
-@layer base {
+/* @layer base {
   :root {
     --background: 312 43% 82%; 
     --foreground: 180 100% 3%; 
@@ -1314,7 +1314,7 @@ html, body, #root {
     --sidebar-border: 180 30% 14%;
     --sidebar-ring: 312 43% 82%;
   }
-}
+} */
 
 /* Chattrix */
 /* @layer base {
