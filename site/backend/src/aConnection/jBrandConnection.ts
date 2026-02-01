@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://capella-frontend-v02.netlify.app",
 
   uTagName: "Innovating Bright Stars",
+
+  vMainApplication: "Capella Application",
+  vFrontendApplication: "Capella Application (Frontend)",
+  vAdminApplication: "Capella Application (Admin)",
+  vBackendApplication: "Capella Application (Backend)",
 }
 
 export default brandConnection;
